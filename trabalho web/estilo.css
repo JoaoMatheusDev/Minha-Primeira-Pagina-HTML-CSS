@@ -1,0 +1,89 @@
+h1{
+	color:blue;
+	text-decoration: none;
+	font-size: 100px;
+	font-family: "Space Mono", monospace;
+	text-shadow: -5px 5px #808080;
+}
+h2{ 
+	color:White;
+	text-decoration: none;
+	font-size: 40px;
+	font-family: "Space Mono", monospace;
+ }
+ a{
+ 	color: White;
+ 	text-decoration: none;	
+ 	font-size: 50px;
+ 	font-family: "Space Mono", monospace;
+ 	letter-spacing: 30px;
+ 	text-shadow: -3px 3px black;
+ 	padding: 0px 530px 0px 530px;  
+    cursor: hand;
+ }
+h3{
+	color:White;
+ 	text-decoration: none;	
+ 	font-size: 50px;
+ 	font-family: "Space Mono", monospace;
+}
+
+h4{
+	color:blue;
+	text-decoration: none;	
+	font-size:	100px;
+	font-family: "Space Mono", monospace;
+	text-shadow: -5px 5px #808080;
+}
+dt{
+	color:yellow;
+	text-decoration: none;	
+	font-size:	110px;
+	font-family: "Space Mono", monospace;
+	text-shadow: -5px 5px black;
+	padding: 0px 0px 0px 40px;
+}
+dd{
+	color:White;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: "Space Mono", monospace;
+	padding: 0px 0px 20px 0px;
+}
+#wrap{
+	width:	960px;
+	margin: auto;
+	background: #e3e3e3;
+}
+h1{
+		padding: 50px 50px 10px 320px;
+}
+h2{padding: 10px 30px 30px 130px;
+}
+h3{padding:0px 0px 0px 200px
+}
+h4{padding:30px 30px 20px 500px;}
+
+body{background-color:#D3D3D3;}
+
+a:hover{color:yellow;}
+
+.fotos{ border: 5px solid black;}
+.fotos{height:350px;}
+.fotos{width: 730px;}
+img{border:5px solid black;}
+img{height:300px;}
+img{width:1500px;}
+body{background-image:url(foto/fundo.jpg);
+
+
+
+
+
+
+
+
+
+
+
+
